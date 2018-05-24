@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="dd35b2380f342e00cab54c6be1050e83" sys_domain="global" table="x_eptds_skype4b_ad_sc_request_import" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5d35b2380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>dd35b2380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5135b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d135b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>close_notes</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5535b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>group_list</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d535b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>impact</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5935b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d935b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5d35b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>dd35b2380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>additional_assignee_list</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5135b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d135b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5535b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d535b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5935b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_duration</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d935b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_service</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5d35b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>closed_at</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>dd35b2380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5135b2380f342e00cab54c6be1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d135b2380f342e00cab54c6be1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correlation_display</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>5535b2380f342e00cab54c6be1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correlation_id</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>d535b2380f342e00cab54c6be1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_address</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_task</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>escalation</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>expected_start</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>follow_up</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>11353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>91353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_by</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>15353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>price</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>32</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>33</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>reassignment_count</element>
+            <position>34</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>rejection_goto</element>
+            <position>35</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>11353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_state</element>
+            <position>36</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>91353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sla_due</element>
+            <position>37</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>15353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_instructions</element>
+            <position>38</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stage</element>
+            <position>39</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>upon_reject</element>
+            <position>40</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>urgency</element>
+            <position>41</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_input</element>
+            <position>42</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>variables</element>
+            <position>43</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>11353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wf_activity</element>
+            <position>44</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>91353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>45</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>15353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>46</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>47</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>48</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity_due</element>
+            <position>49</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_duration</element>
+            <position>50</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>calendar_stc</element>
+            <position>51</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>11353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>52</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>91353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>53</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>15353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_type</element>
+            <position>54</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>delivery_plan</element>
+            <position>55</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>56</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>made_sla</element>
+            <position>57</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>58</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_date</element>
+            <position>59</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>11353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>requested_for</element>
+            <position>60</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>91353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>61</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>15353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>time_worked</element>
+            <position>62</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>95353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>upon_approval</element>
+            <position>63</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>19353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>watch_list</element>
+            <position>64</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>99353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>65</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>1d353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>66</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_id>9d353a380f342e00cab54c6be1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_eptds_skype4b_ad_sc_request_import" sys_domain="global" view="Default view">dd35b2380f342e00cab54c6be1050e83</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_eptds_skype4b_ad_sc_request_import</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-07-21 13:45:47</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd35b2380f342e00cab54c6be1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_eptds_skype4b_ad_sc_request_import</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
+            <sys_update_name>sys_ui_section_dd35b2380f342e00cab54c6be1050e83</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-07-21 13:45:47</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

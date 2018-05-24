@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_transform_entry">
+    <sys_transform_entry action="INSERT_OR_UPDATE">
+        <choice_action>ignore</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="sys_user import">229f10280f269a40cab54c6be1050ea0</map>
+        <reference_value_field/>
+        <source_field>location</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_eptds_skype4b_ad_sys_user_import</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-03-30 11:52:28</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b39fd0280f269a40cab54c6be1050eaf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_update_name>sys_transform_entry_b39fd0280f269a40cab54c6be1050eaf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-02 07:35:40</sys_updated_on>
+        <target_field>location</target_field>
+        <target_table>sys_user</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+</record_update>
