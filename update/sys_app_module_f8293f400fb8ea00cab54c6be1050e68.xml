@@ -20,12 +20,9 @@
         <query/>
         <report/>
         <roles/>
-        <survey/>
-        <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-07-19 10:48:07</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f8293f400fb8ea00cab54c6be1050e68</sys_id>
@@ -34,7 +31,6 @@
         <sys_overrides/>
         <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
         <sys_update_name>sys_app_module_f8293f400fb8ea00cab54c6be1050e68</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

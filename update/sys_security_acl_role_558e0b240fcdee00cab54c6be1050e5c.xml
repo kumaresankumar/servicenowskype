@@ -4,13 +4,11 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-08-02 07:13:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
         <sys_id>558e0b240fcdee00cab54c6be1050e5c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.x_eptds_skype4b_ad.Skype4B Admin</sys_name>
         <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
         <sys_security_acl display_value="x_eptds_skype4b_ad_incident_import">967e0b240fcdee00cab54c6be1050e22</sys_security_acl>
         <sys_update_name>sys_security_acl_role_558e0b240fcdee00cab54c6be1050e5c</sys_update_name>

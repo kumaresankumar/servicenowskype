@@ -62,7 +62,7 @@
         <element attributes="import_attribute_name=watch_list,edge_encryption_enabled=true" label="Watch list" max_length="40" name="watch_list" type="string"/>
         <element attributes="import_attribute_name=wf_activity,edge_encryption_enabled=true" label="Wf activity" max_length="40" name="wf_activity" type="string"/>
         <element attributes="import_attribute_name=work_end,edge_encryption_enabled=true" label="Work end" max_length="40" name="work_end" type="string"/>
-        <element attributes="import_attribute_name=work_notes,edge_encryption_enabled=true" label="Work notes" max_length="4000" name="work_notes" type="string"/>
+        <element attributes="import_attribute_name=work_notes,edge_encryption_enabled=true" label="Work notes" max_length="50000" name="work_notes" type="string"/>
         <element attributes="import_attribute_name=work_notes_list,edge_encryption_enabled=true" label="Work notes list" max_length="40" name="work_notes_list" type="string"/>
         <element attributes="import_attribute_name=work_start,edge_encryption_enabled=true" label="Work start" max_length="40" name="work_start" type="string"/>
     </element>

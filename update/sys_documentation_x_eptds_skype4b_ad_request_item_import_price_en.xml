@@ -12,13 +12,11 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-12 10:01:54</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_id>c1f797170f7f3240cab54c6be1050e8b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Price</sys_name>
             <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
             <sys_update_name>sys_documentation_x_eptds_skype4b_ad_request_item_import_price_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
