@@ -22,9 +22,9 @@
         <sys_id>42085b170f7f3240cab54c6be1050edf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>billable</sys_name>
-        <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
         <sys_update_name>sys_transform_entry_42085b170f7f3240cab54c6be1050edf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-07-12 10:02:15</sys_updated_on>

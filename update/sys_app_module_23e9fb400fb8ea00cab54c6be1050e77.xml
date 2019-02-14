@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_app_module">
     <sys_app_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Skype4B Adapter">61d3ff400fb8ea00cab54c6be1050e08</application>
+        <application display_value="Tryvium Desk">61d3ff400fb8ea00cab54c6be1050e08</application>
         <assessment/>
         <content_page/>
         <device_type/>
@@ -29,9 +29,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User Import</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Skype4B Adapter" source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Skype4B Adapter">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
         <sys_update_name>sys_app_module_23e9fb400fb8ea00cab54c6be1050e77</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-07-19 10:52:10</sys_updated_on>
