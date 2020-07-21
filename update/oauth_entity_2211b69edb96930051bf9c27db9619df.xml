@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="oauth_entity">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity">
     <oauth_entity action="INSERT_OR_UPDATE">
         <access>public</access>
         <access_token_lifespan>1800</access_token_lifespan>
@@ -10,6 +9,7 @@
         <client_id>ee11b69e179693006f80612940f391de</client_id>
         <client_secret>NTxXcmaydX8KblFxV9ZlQw==</client_secret>
         <client_uuid>ae11b69edb96930051bf9c27db9619de</client_uuid>
+        <code_challenge_method>S256</code_challenge_method>
         <comments/>
         <default_grant_type>password</default_grant_type>
         <id_token_lifespan>86400</id_token_lifespan>
@@ -17,10 +17,15 @@
         <message_signature_lifespan>60</message_signature_lifespan>
         <name>Skype4B Adapter</name>
         <oauth_api_script/>
+        <protocol_name/>
+        <public_client>false</public_client>
         <redirect_url/>
         <refresh_token_lifespan>8640000</refresh_token_lifespan>
+        <refresh_token_url/>
         <revoke_token_url/>
         <salt/>
+        <send_client_credentials_as>request_body_parameter</send_client_credentials_as>
+        <skip_authorize>false</skip_authorize>
         <sys_class_name>oauth_entity</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-05-28 07:26:33</sys_created_on>
@@ -35,6 +40,7 @@
         <sys_updated_on>2018-05-28 07:26:33</sys_updated_on>
         <token_url/>
         <type>client</type>
+        <use_mutual_auth>false</use_mutual_auth>
         <user/>
     </oauth_entity>
 </record_update>

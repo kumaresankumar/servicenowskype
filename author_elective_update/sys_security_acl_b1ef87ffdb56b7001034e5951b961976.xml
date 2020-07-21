@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>V_User_Session Table Access</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 17:55:44</sys_created_on>
+        <sys_id>b1ef87ffdb56b7001034e5951b961976</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>V_User_Session Table Access</sys_name>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_update_name>sys_security_acl_b1ef87ffdb56b7001034e5951b961976</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 17:55:44</sys_updated_on>
+        <type display_value="REST_Endpoint">REST_Endpoint</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</application>
+        <file_path/>
+        <instance_id>2f27ff916fb8da401a75a9cc5d3ee491</instance_id>
+        <instance_name>ven01536</instance_name>
+        <name>sys_security_acl_b1ef87ffdb56b7001034e5951b961976</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>V_User_Session Table Access</name><operation display_value="execute">execute</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-07-04 17:55:44</sys_created_on><sys_id>b1ef87ffdb56b7001034e5951b961976</sys_id><sys_mod_count>0</sys_mod_count><sys_name>V_User_Session Table Access</sys_name><sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package><sys_policy/><sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope><sys_update_name>sys_security_acl_b1ef87ffdb56b7001034e5951b961976</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-07-04 17:55:44</sys_updated_on><type display_value="REST_Endpoint">REST_Endpoint</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-400477989</payload_hash>
+        <record_name>V_User_Session Table Access</record_name>
+        <reverted_from/>
+        <source>381eded6db16930051bf9c27db961971</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 17:55:44</sys_created_on>
+        <sys_id>51409bffdb56b7001034e5951b9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16bbe20b9740000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 17:55:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>59409bffab56b7007b2a3c8c76fb83b4</update_guid>
+        <update_guid_history>59409bffab56b7007b2a3c8c76fb83b4:-400477989</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 17:57:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>2f2f57ce49814b4b8fe74f1a75d02871</sys_id>
+        <sys_metadata>b1ef87ffdb56b7001034e5951b961976</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>V_User_Session Table Access</sys_name>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_scope_delete display_value="">1dd3a13c01804552ae17f2e9d7875971</sys_scope_delete>
+        <sys_update_name>sys_security_acl_b1ef87ffdb56b7001034e5951b961976</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_b1ef87ffdb56b7001034e5951b961976">51409bffdb56b7001034e5951b9619b5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 17:57:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

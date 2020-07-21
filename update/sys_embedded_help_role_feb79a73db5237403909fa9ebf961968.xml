@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-04 13:48:43</sys_created_on>
+        <sys_id>feb79a73db5237403909fa9ebf961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ea77d673db5237403909fa9ebf9619c2</sys_name>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_update_name>sys_embedded_help_role_feb79a73db5237403909fa9ebf961968</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-04 13:48:43</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

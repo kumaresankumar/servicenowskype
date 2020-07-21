@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+	var c = this;
+	var WebChatUrl = "https://goodyearuat.sensiple.com/UCXWC";
+	//var WebChatUrl = "https://uat.botomateducx.com:4453/UCXWC";
+	var chatUserName = "";
+	var chatUserEmail = "";
+	var ctkn = "";
+	if(c.data.userName != null && c.data.userName != undefined && c.data.userName != 'undefined') {
+		chatUserName = c.data.userName;
+	} 
+	if(c.data.userName != null && c.data.userName != undefined && c.data.userName != 'undefined') {
+		chatUserEmail = c.data.userEmail;
+	}
+	if(c.data.userSessionID != null && c.data.userSessionID != undefined && c.data.userSessionID != 'undefined') {
+		ctkn = c.data.userSessionID;
+	}
+	var fc_CSS = document.createElement('link');
+	fc_CSS.setAttribute('rel', 'stylesheet');
+	fc_CSS.setAttribute('type', 'text/css');
+	fc_CSS.setAttribute('href', WebChatUrl + '/cdn/style.css');
+	document.getElementsByTagName('head')[0].appendChild(fc_CSS);
+	var fc_JS = document.createElement('script');
+	fc_JS.type = 'text/javascript';
+	fc_JS.defer = true;
+	fc_JS.src = WebChatUrl + '/cdn/Script.js';
+		      
+    //chatUserName = "";
+	//chatUserEmail = "";
+	(document.body ? document.body : document.getElementsByTagName('head')[0]).appendChild(fc_JS);    
+	window.config = {
+		"WebChatUrl": WebChatUrl + '?name=' + chatUserName + '&Email=' + chatUserEmail + '&ctkn=' + ctkn
+	};
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>true</has_preview>
+        <id>tryviumdesk-webchat</id>
+        <internal>false</internal>
+        <link/>
+        <name>tryviumdesk-webchat</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[( function() {
+	data.userName = gs.getUser().getDisplayName();
+	data.userEmail = gs.getUser().getEmail();
+	
+	var wcEndpoint = "https://goodyearuat.sensiple.com/UCXWC/chat/tokenXXX";
+	//var wcEndpoint = "https://uat.botomateducx.com:4453/UCXWC/chat/token";
+	var apiKey = "BD3912A1-332C-4EA3-A774-5EFCEA0898BB";
+	var responseBody;
+	var sn_wsObj;
+	var response;
+	
+try{
+	sn_wsObj = new sn_ws.RESTMessageV2();  
+	var url = wcEndpoint + "?clientKey=" + apiKey;
+	sn_wsObj.setHttpMethod("get");
+	sn_wsObj.setEndpoint(url);
+	sn_wsObj.setHttpTimeout(10000); 
+	response = sn_wsObj.execute();
+    responseBody = response.getBody();
+	data.userSessionID = responseBody;
+} catch(ex) {
+	data.userSessionID = "";
+} finally {
+}
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-23 14:42:10</sys_created_on>
+        <sys_id>37e0d616db6173003909fa9ebf96191a</sys_id>
+        <sys_mod_count>178</sys_mod_count>
+        <sys_name>tryviumdesk-webchat</sys_name>
+        <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
+        <sys_update_name>sp_widget_37e0d616db6173003909fa9ebf96191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-27 07:17:49</sys_updated_on>
+        <template><![CDATA[<div>
+</div>]]></template>
+    </sp_widget>
+</record_update>

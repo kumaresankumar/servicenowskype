@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_user_role_contains">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
     <sys_user_role_contains action="INSERT_OR_UPDATE">
         <contains display_value="personalize_choices" name="personalize_choices">3016d3e0a9fe3dba016a03916401c2d7</contains>
         <role display_value="x_eptds_skype4b_ad.Skype4B Admin" name="x_eptds_skype4b_ad.Skype4B Admin">d53dd4e40f269a40cab54c6be1050ebf</role>

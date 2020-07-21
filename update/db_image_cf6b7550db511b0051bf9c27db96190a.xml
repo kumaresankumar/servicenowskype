@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="db_image">
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
     <db_image action="INSERT_OR_UPDATE">
         <active>true</active>
         <category/>
@@ -29,10 +28,12 @@
         <compressed>true</compressed>
         <content_type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</content_type>
         <file_name>image</file_name>
+        <hash/>
         <image_height/>
         <image_width/>
         <size_bytes>92413</size_bytes>
         <size_compressed>82961</size_compressed>
+        <state/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-02 05:21:12</sys_created_on>
         <sys_id>976b7550db511b0051bf9c27db96190d</sys_id>

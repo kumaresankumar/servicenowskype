@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="priority" table="incident" version="3">
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="urgency" table="incident" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>priority</element>
+            <element>urgency</element>
             <hint/>
             <inactive>false</inactive>
-            <label>1 - Critical</label>
+            <label>1 - High</label>
             <language>en</language>
             <name>incident</name>
             <sequence>0</sequence>
@@ -14,7 +13,7 @@
             <sys_created_on>2016-07-22 06:33:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>0fcb9acd0ff42e00cab54c6be1050e7b</sys_id>
+            <sys_id>c7cb9acd0ff42e00cab54c6be1050e78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-07-22 06:33:14</sys_updated_on>
@@ -22,10 +21,10 @@
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>priority</element>
+            <element>urgency</element>
             <hint/>
             <inactive>false</inactive>
-            <label>2 - High</label>
+            <label>2 - Medium</label>
             <language>en</language>
             <name>incident</name>
             <sequence>1</sequence>
@@ -33,7 +32,7 @@
             <sys_created_on>2016-07-22 06:33:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8fcb9acd0ff42e00cab54c6be1050e7c</sys_id>
+            <sys_id>4bcb9acd0ff42e00cab54c6be1050e79</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-07-22 06:33:14</sys_updated_on>
@@ -41,10 +40,10 @@
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>priority</element>
+            <element>urgency</element>
             <hint/>
             <inactive>false</inactive>
-            <label>3 - Moderate</label>
+            <label>3 - Low</label>
             <language>en</language>
             <name>incident</name>
             <sequence>2</sequence>
@@ -52,65 +51,27 @@
             <sys_created_on>2016-07-22 06:33:14</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8fcb9acd0ff42e00cab54c6be1050e7d</sys_id>
+            <sys_id>4bcb9acd0ff42e00cab54c6be1050e7a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-07-22 06:33:14</sys_updated_on>
             <value>3</value>
         </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>priority</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>4 - Low</label>
-            <language>en</language>
-            <name>incident</name>
-            <sequence>3</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-07-22 06:33:14</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8fcb9acd0ff42e00cab54c6be1050e7e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-07-22 06:33:14</sys_updated_on>
-            <value>4</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>priority</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>5 - Planning</label>
-            <language>en</language>
-            <name>incident</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-07-22 06:33:14</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>8fcb9acd0ff42e00cab54c6be1050e7f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-07-22 06:33:14</sys_updated_on>
-            <value>5</value>
-        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>priority</element>
+            <element>urgency</element>
             <name>incident</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2016-07-22 06:33:14</sys_created_on>
-            <sys_id>57fdd61adb16930051bf9c27db961933</sys_id>
+            <sys_id>affdd61adb16930051bf9c27db961958</sys_id>
             <sys_mod_count>3</sys_mod_count>
-            <sys_name>priority</sys_name>
+            <sys_name>urgency</sys_name>
             <sys_package display_value="Tryvium Desk for Skype4B " source="x_eptds_skype4b_ad">047b98640f269a40cab54c6be1050e62</sys_package>
             <sys_policy/>
             <sys_scope display_value="Tryvium Desk for Skype4B ">047b98640f269a40cab54c6be1050e62</sys_scope>
-            <sys_update_name>sys_choice_incident_priority</sys_update_name>
+            <sys_update_name>sys_choice_incident_urgency</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-31 09:48:53</sys_updated_on>
+            <sys_updated_on>2017-05-31 09:48:51</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

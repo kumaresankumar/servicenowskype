@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="sys_import_set_row" label="Request Item Import" max_length="40" name="x_eptds_skype4b_ad_request_item_import" type="collection">
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Request Item Import" max_length="40" name="x_eptds_skype4b_ad_request_item_import" sizeclass="0" type="collection">
         <element attributes="import_attribute_name=active,edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="string"/>
         <element attributes="import_attribute_name=activity_due,edge_encryption_enabled=true" label="Activity due" max_length="40" name="activity_due" type="string"/>
         <element attributes="import_attribute_name=additional_assignee_list,edge_encryption_enabled=true" label="Additional assignee list" max_length="40" name="additional_assignee_list" type="string"/>
